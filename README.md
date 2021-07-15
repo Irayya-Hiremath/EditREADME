@@ -7,9 +7,8 @@
    <img src="https://komarev.com/ghpvc/?username=Irayya-Hiremath
 &label=Profile%20views&color=129e00&style=plastic" alt="Irayya-Hiremath
 " /> 
-   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Irayya-Hiremath
-.Irayya-Hiremath
-" /> -->
+   <img src="https://visitor-badge.glitch.me/badge?page_id=Irayya-Hiremath
+" />
  </p>
  <br>
  
