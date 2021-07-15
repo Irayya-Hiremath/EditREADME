@@ -4,8 +4,7 @@
  </h1> 
  
  <p align="right"> 
-   <img src="https://komarev.com/ghpvc/?username=Irayya-Hiremath
-&label=Profile%20views&color=129e00&style=plastic" alt="Irayya-Hiremath
+   <img src="https://komarev.com/ghpvc/?username=Irayya-Hiremath&label=Profile%20views&color=129e00&style=plastic" alt="Irayya-Hiremath
 " /> 
    <img src="https://visitor-badge.glitch.me/badge?page_id=Irayya-Hiremath"/>
  </p>
@@ -78,8 +77,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Irayya-Hiremath
-&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Irayya-Hiremath&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <!--START_SECTION:waka-->
