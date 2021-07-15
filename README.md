@@ -7,8 +7,7 @@
    <img src="https://komarev.com/ghpvc/?username=Irayya-Hiremath
 &label=Profile%20views&color=129e00&style=plastic" alt="Irayya-Hiremath
 " /> 
-   <img src="https://visitor-badge.glitch.me/badge?page_id=Irayya-Hiremath
-" />
+   <img src="https://visitor-badge.glitch.me/badge?page_id=Irayya-Hiremath"/>
  </p>
  <br>
  
@@ -21,8 +20,6 @@
      <a href="https://www.linkedin.com/in/irayya-hiremath/" ><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="30px" alt="linkedin"/></a>
      
      
-<!--       <a href="https://www.linkedin.com/in/mahesh-sangeet/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="30px" alt="linkedin"/></a>
-       <a href="https://www.linkedin.com/in/mahesh-sangeet/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="30px" alt="linkedin"/></a> -->
  &nbsp;
  &nbsp;
  &nbsp;
@@ -62,37 +59,22 @@
 
 
 
-<!-- <p align="left"> 
- <img src="https://github-readme-stats.vercel.app/api?username=Irayya-Hiremath
-&show_icons=true&theme=gotham" alt="Irayya-Hiremath
-" />
- &nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irayya-Hiremath
-&theme=gotham" alt="Irayya-Hiremath
-" />
- <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irayya-Hiremath
-&hide=html,&hide_border=true&title_color=5391FE&text_color=555" />
-</p> -->
-
 
 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Irayya-Hiremath
-&theme=react&border=61dafb&hide_border=true" alt="Irayya-Hiremath
-" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Irayya-Hiremath&theme=react&border=61dafb&hide_border=true"alt="Irayya-Hiremath
+"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Irayya-Hiremath
-&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Irayya-Hiremath&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irayya-Hiremath
-&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irayya-Hiremath&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
@@ -104,11 +86,3 @@
 <!--END_SECTION:waka-->
 
  
- 
- 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Irayya-Hiremath
-&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irayya-Hiremath
-&theme=tokyonight)
- 
-![LCO Mascot](https://learncodeonline.in/mascot.png "LCO") -->
